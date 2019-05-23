@@ -5,18 +5,18 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
-    "https://pbs.twimg.com/profile_images/378800000511679122/18c93d1fc00103fc2ab9b0c1246cddeb.jpeg",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr01/15/9/anigif_enhanced-buzz-31540-1381844535-8.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26390-1381844163-18.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-1376-1381846217-0.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/15/9/anigif_enhanced-buzz-3391-1381844336-26.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-29111-1381845968-0.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/15/9/anigif_enhanced-buzz-3409-1381844582-13.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr02/15/9/anigif_enhanced-buzz-19667-1381844937-10.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26358-1381845043-13.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-18774-1381844645-6.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-25158-1381844793-0.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/15/10/anigif_enhanced-buzz-11980-1381846269-1.gif"
+    "https://purr.objects-us-east-1.dream.io/i/Uv3oc.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/sKy1t.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/FbtHG.gif",
+    "https://purr.objects-us-east-1.dream.io/i/tumblr_m4qgtaTpka1ruesl6o1_1280.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/N0EGB.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/XWSY6.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/UP5SI.png",
+    "https://purr.objects-us-east-1.dream.io/i/awwwww.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/kyfPV.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/thyc9.gif",
+    "https://purr.objects-us-east-1.dream.io/i/BPU3b.jpg",
+    "https://purr.objects-us-east-1.dream.io/i/103_-_17XSD30.gif",
 ]
 
 @app.route('/')
