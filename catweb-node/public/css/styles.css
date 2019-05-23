@@ -10,7 +10,9 @@ div.container {
         padding: 10px;
         text-align: center;
 }
-
+img.catpic {
+        max-width: 480px;
+}
 h4 {
         text-transform: uppercase;
 }
